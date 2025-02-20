@@ -25,14 +25,14 @@
 
 
 🌐 Live Demo
-🔗 View Portfolio Online 
+🔗 View Portfolio Online -- https://harshavarm.github.io/MyPortfolio/
 
 🚀 Getting Started
 1️⃣ Clone the Repository
 bash
 Copy
 Edit
-git clone [https://github.com/your-github-username/portfolio.git](https://github.com/HarshaVarM/MyPortfolio.git)
+git clone https://github.com/HarshaVarM/MyPortfolio.git
 cd portfolio
 2️⃣ Open Locally
 Simply open index.html in your browser.
