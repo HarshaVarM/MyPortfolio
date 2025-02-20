@@ -24,17 +24,11 @@
 📦 Portfolio
 
 │-- 📂 assets             # Resume, Images, and other media
-
 │-- 📂 css                # Stylesheets
-
 │   ├── styles.css        # Main CSS file
-
 │-- 📂 js                 # JavaScript files
-
 │   ├── script.js         # Main JavaScript file
-
 │-- 📜 index.html         # Main Portfolio page
-
 │-- 📜 README.md          # Project Documentation
 
 
