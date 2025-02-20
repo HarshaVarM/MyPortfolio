@@ -47,6 +47,8 @@ CSS3 - Styling with animations and responsiveness
 JavaScript (ES6+) - Interactive UI elements
 Bootstrap 5 - Responsive grid and components
 GSAP / AOS (Optional) - Smooth animations
+
+
 📬 Contact
 📧 Email: harsha.vardhanm@yahoo.com
 
